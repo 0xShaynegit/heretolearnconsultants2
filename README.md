@@ -26,4 +26,4 @@ Static website for Here to Learn Consultants, a network of educational consultan
 - Replace placeholder email `hello@heretolearnconsultants.com`
 - Update `https://heretolearnconsultants2.pages.dev` in canonical links, `sitemap.xml` and `robots.txt` when a custom domain is added
 - Connect the enquiry form to a form service (it currently opens the visitor's email app)
-- Add consultant profiles and photography
+- Add a role and short bio for each consultant (portraits and names are in place)
