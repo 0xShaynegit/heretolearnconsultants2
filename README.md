@@ -10,9 +10,10 @@ Static website for Here to Learn Consultants, a network of educational consultan
 - `404.html` Not found page (served automatically by Cloudflare Pages)
 
 ## Files
-- `assets/css/styles.css` Theme (graphite, bone and brass)
+- `assets/css/styles.css` Light theme drawn from the logo (slate, olive, warm paper)
 - `assets/js/main.js` Navigation, scroll reveals, enquiry form
-- `assets/img/` Favicon, touch icon, social share image
+- `assets/img/` Favicon and touch icon (generated from the logo mark)
+- `images/` Logos, portraits and photography (webp and avif)
 - `_headers` Cloudflare security and caching headers
 - `sitemap.xml`, `robots.txt` Search engine files
 
