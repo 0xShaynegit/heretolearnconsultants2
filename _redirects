@@ -1,0 +1,3 @@
+# Removed internal files (2026-11-22): send requests for them home, overriding stale copies
+/CLAUDE.md  /  301
+/README.md  /  301
